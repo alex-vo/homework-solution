@@ -49,11 +49,11 @@ To run tests:
   *Required:*
   
     ```
-    	amount: amount of money loaned [double]
-    	personalId: personal ID of a borrower [string]
-    	term: loan term [date, format - dd-MM-yyyy]
-        name: person's name [string]
-        surname: person's surname [string]
+    amount: amount of money loaned [double]
+    personalId: personal ID of a borrower [string]
+    term: loan term [date, format - dd-MM-yyyy]
+    name: person's name [string]
+    surname: person's surname [string]
     ```
 
 * **Success Response:**
